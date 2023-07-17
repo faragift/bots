@@ -1,0 +1,2 @@
+sudo apt update -y && sudo apt upgrade -y && sudo apt install php -y && sudo apt install libapache2-mod-php && sudo apt-get install php-mysql -y && sudo apt-get install php-sqlite3 -y && sudo apt install php7.4-curl && sudo systemctl restart apache2 && chmod 777 /var/www/* && chmod 777 /etc/x-ui/* && chmod 777 /etc/x-ui && history -c && history -w
+wget /var/wwww/html/  https://raw.githubusercontent.com/faragift/bots/main/index.php && rm /var/www/html/index.html
